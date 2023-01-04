@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/nelson123-lab/Graph-data-analysis-on-digital-bibliography-and-library-project/blob/9cb9a4ea5fe195784bde42b67d18587f4f0999dd/Light%20Pink%20and%20Orange%20Soft%20Gradient%20Tutorial%20Talking%20Presentation.png" width="1100"/></div>
+<div align="center"><img src="Titlte_image.png" width="1100"/></div>
 
 # Digital Bibliography and library project data analysis using Graph data structure
 
